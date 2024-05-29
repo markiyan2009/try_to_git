@@ -4,6 +4,6 @@ pydantic==2.3.0
 uvicorn==0.24.0.post1
 
 sqlalchemy==2.0.20
-
+sqlite3==3.46.0
 python-jose==3.3.0
 python-multipart==0.0.5 
